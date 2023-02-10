@@ -13,4 +13,4 @@ Soy un entusiasta del desarrollo web y sus tecnologias. Tengo conocimiento y for
 ## Encuentrame en:
 
 ### Redes Sociales
-![Youtube](https://img.shields.io/badge/Youtube-3DOC84?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)</br>
+![Youtube](https://img.shields.io/badge/Youtube-3DOC84?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)</br>

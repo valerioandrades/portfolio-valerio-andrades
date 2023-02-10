@@ -7,4 +7,4 @@ Soy un entusiasta del desarrollo web y sus tecnologias. Tengo conocimiento y for
 ![Javascript](https://img.shields.io/badge/Javascript-3DOC84?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)</br>
 ![Linux](https://img.shields.io/badge/Linux-3DOC84?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
 ![HTML5](https://img.shields.io/badge/Html5-3DOC84?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
-![Css](https://img.shields.io/badge/Css-3DOC84?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)</br>
+![Css](https://img.shields.io/badge/CSS-3DOC84?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)</br>

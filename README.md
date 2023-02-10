@@ -14,3 +14,5 @@ Soy un entusiasta del desarrollo web y sus tecnologias. Tengo conocimiento y for
 
 ### Redes Sociales
 ![Youtube](https://img.shields.io/badge/Youtube-3DOC84?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)</br>
+![Instagram](https://img.shields.io/badge/Instagram-3DOC84?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)</br>
+![Linkedin](https://img.shields.io/badge/Linkedin-3DOC84?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)</br>

@@ -1,5 +1,5 @@
 # Hola a todos! 
-mi nombre es Valerio Andrades.
+### Mi nombre es Valerio Andrades.
 Soy programador junior y entusiasta del desarrollo web y sus tecnologias. Tengo conocimiento y formacion en HTML, CSS y Javascript.
 
 ## Skills 

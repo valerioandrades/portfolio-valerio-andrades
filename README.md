@@ -11,7 +11,7 @@
 
 - 📫 Podes comunicarte conmigo a mi mail **valerio_andrades@hotmail.com**
 
-<h3 align="left">Conectame conmigo por:</h3>
+<h3 align="left">Conectate conmigo por:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/valerio-andrades-9ab831135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valerio-andrades-9ab831135" height="30" width="40" /></a>
 <a href="https://instagram.com/valerio.andrades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerio.andrades" height="30" width="40" /></a>

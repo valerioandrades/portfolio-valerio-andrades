@@ -1,18 +1,18 @@
-# Hola a todos! 
-### Mi nombre es Valerio Andrades.
-Soy programador junior y entusiasta del desarrollo web y sus tecnologias. Tengo conocimiento y formacion en HTML, CSS y Javascript.
+<h1 align="center">Hola 👋, Soy Valerio Andrades</h1>
+<h3 align="center">Un entusiasta desarrollador junior de apps en Javascript</h3>
 
-## Skills 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valerioandrades&label=Profile%20views&color=0e75b6&style=flat" alt="valerioandrades" /> </p>
 
-![Javascript](https://img.shields.io/badge/Javascript-3DOC84?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)</br>
-![Linux](https://img.shields.io/badge/Linux-3DOC84?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)</br>
-![HTML5](https://img.shields.io/badge/Html5-3DOC84?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
-![Git](https://img.shields.io/badge/Git-3DOC84?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)</br>
-![React](https://img.shields.io/badge/React-3DOC84?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)</br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valerioandrades" alt="valerioandrades" /></a> </p>
 
-## Encuentrame en:
+- 🔭 Estoy actualmente trabajando **en mis primeros proyectos**
 
-### Redes Sociales
-[![Youtube](https://img.shields.io/badge/Youtube-3DOC84?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)](https://android-arsenal.com)
-[![Instagram](https://img.shields.io/badge/Instagram-3DOC84?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://instagram.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin-3DOC84?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/valerio-andrades-9ab831135/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/valerio-andrades-9ab831135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valerio-andrades-9ab831135" height="30" width="40" /></a>
+<a href="https://instagram.com/valerio.andrades" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerio.andrades" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c//channel/uci7_ppsct9ty6xtg_1ofiia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/channel/uci7_ppsct9ty6xtg_1ofiia" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>

@@ -1,11 +1,15 @@
 <h1 align="center">Hola 👋, Soy Valerio Andrades</h1>
-<h3 align="center">Un entusiasta desarrollador junior de apps en Javascript</h3>
+<h3 align="center">Un entusiasta desarrollador junior de apps en Javascript. Busco desafios para poder mejorar mis habilidades y ganar experiencia. Mi objetivo es ser un fullstack developer de apps web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valerioandrades&label=Profile%20views&color=0e75b6&style=flat" alt="valerioandrades" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valerioandrades" alt="valerioandrades" /></a> </p>
-
 - 🔭 Estoy actualmente trabajando **en mis primeros proyectos**
+
+- 🌱 Actualmente estoy aprendiendo **react, react native, angular.**
+
+- 👯 Busco colaborar **en el desarrollo de web apps**
+
+- 📫 Podes comunicarte conmigo a mi mail **valerio_andrades@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

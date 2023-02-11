@@ -1,4 +1,5 @@
-Hola a todos, mi nombre es ![Valerio Andrades!](https://img.shields.io/badge/valerio%20andrades-Programador%20Junior-blue)
+# Hola a todos! 
+mi nombre es ![Valerio Andrades!](https://img.shields.io/badge/valerio%20andrades-Programador%20Junior-blue)
 
 Soy un entusiasta del desarrollo web y sus tecnologias. Tengo conocimiento y formacion en HTML, CSS y Javascript.
 

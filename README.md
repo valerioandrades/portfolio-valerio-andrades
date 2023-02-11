@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, Soy Valerio Andrades</h1>
 <h3 align="center">Un entusiasta desarrollador junior de apps en Javascript. Busco desafios para poder mejorar mis habilidades y ganar experiencia. Mi objetivo es ser un fullstack developer de apps web.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valerioandrades&label=Profile%20views&color=0e75b6&style=flat" alt="valerioandrades" /> </p>
 

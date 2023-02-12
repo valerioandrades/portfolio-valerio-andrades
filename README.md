@@ -16,6 +16,9 @@
 
 - 📫 Podes comunicarte conmigo a mi mail **valerio_andrades@hotmail.com**
 
+## En este portfolio, publico mis primeros proyectos como desarrollador web.
+### Con el paso del tiempo, iré subiendo mas proyectos y actualizandolo.
+
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/valerio-andrades-9ab831135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valerio-andrades-9ab831135" height="30" width="40" /></a>

@@ -12,12 +12,18 @@
 
 - 👯 Busco colaborar **en el desarrollo de web apps**
 
-- 👨‍💻 Todos mis proyectos estan disponibles [en este link](en este link)
-
 - 📫 Podes comunicarte conmigo a mi mail **valerio_andrades@hotmail.com**
 
-## En este portfolio, publico mis primeros proyectos como desarrollador web.
-### Con el paso del tiempo, iré subiendo mas proyectos y actualizandolo.
+### En este portfolio, publico mis primeros proyectos como desarrollador web.
+
+- 👨‍💻 proyecto 1: cotizador de criptomonedas.
+- 👨‍💻 proyecto 2: App Web de clima.
+- 👨‍💻 proyecto 3: Buscador de recetas.
+- 👨‍💻 proyecto 4: Carrito de compras.
+- 👨‍💻 proyecto 5: Cronometro Web.
+- 👨‍💻 proyecto 6: Buscador de autos.
+
+## Para el desarrollo de los anteriormente mencionados, se utilizó: Javascript, HTML, CSS, bootstrap y tailwind.
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">

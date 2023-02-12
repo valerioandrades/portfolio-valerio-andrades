@@ -16,7 +16,7 @@
 
 ### En este portfolio, publico mis primeros proyectos como desarrollador web.
 
-- 👨‍💻 proyecto 1: cotizador de criptomonedas.
+- 👨‍💻 proyecto 1: Cotizador de criptomonedas.
 - 👨‍💻 proyecto 2: App Web de clima.
 - 👨‍💻 proyecto 3: Buscador de recetas.
 - 👨‍💻 proyecto 4: Carrito de compras.
